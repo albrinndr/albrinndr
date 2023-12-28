@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/albrinndr" target="blank"><img src="https://img.shields.io/twitter/follow/albrinndr?logo=twitter&style=for-the-badge" alt="albrinndr" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **albrinndr@gmail.com**
